@@ -2,7 +2,7 @@
 
 A personal portfolio website showcasing my journey as an aspiring Data Analyst, built as a single-page, animated dark-themed site.
 
-🔗 **Live Demo:** _(https://zunaidahmad1528-netizen.github.io/My-Portfolio-/)_
+🔗 **Live Demo:** _(myporfoliomohdzunaid.netlify.app)_
 
 ## About
 
